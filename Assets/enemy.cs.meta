@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd282c05c227e344a93c1274a285f674
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - turret: {instanceID: 0}
+  - muzzle: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

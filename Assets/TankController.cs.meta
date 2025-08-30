@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b92cb94597fecdc4c9adc5ef27711288
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turret: {instanceID: 0}
+  - muzzle: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - projectilePrefab: {fileID: 7136623020796341421, guid: 6828f0cd2cce3a2418352e5879637b53, type: 3}
+  - engineSound: {instanceID: 0}
+  - fireSound: {fileID: 8300000, guid: ef46381f29be0924d9d4a8e1c8e7df10, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

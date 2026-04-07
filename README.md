@@ -1,1 +1,1 @@
-Its a tanks' battel game.
+Its a tanks' battel game. Player controls one tank.
